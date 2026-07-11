@@ -1,4 +1,0 @@
-Method,Model Name,Accuracy (%),Accuracy OffByOne (%),Macro-F1(%),Latency(ms),Size (MB)
-GAMC,Flan-T5-Small,31.8,61.0,21.91,65.49,120.72
-GAMC,Flan-T5-Base,39.9,73.7,29.47,107.74,307.13
-GAMC,Flan-T5-Large,53.1,91.3,52.65,206.54,841.94

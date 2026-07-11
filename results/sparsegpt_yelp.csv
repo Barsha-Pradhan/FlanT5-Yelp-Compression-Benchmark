@@ -1,4 +1,0 @@
-Method,Model Name,Accuracy (%),Accuracy OffByOne (%),Macro-F1(%),Latency(ms),Size (MB)
-SparseGPT,Flan-T5-Small,47.0,89.0,46.57,103.32,146.88
-SparseGPT,Flan-T5-Base,53.6,91.4,52.19,122.04,472.34
-SparseGPT,Flan-T5-Large,59.1,95.2,58.92,165.4,1493.99

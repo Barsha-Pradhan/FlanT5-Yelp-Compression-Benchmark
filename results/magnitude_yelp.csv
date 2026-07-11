@@ -1,4 +1,0 @@
-Method,Model Name,Accuracy (%),Accuracy OffByOne (%),Macro-F1(%),Latency(ms),Size (MB)
-Magnitude,Flan-T5-Small,45.7,87.8,44.23,98.45,146.88
-Magnitude,Flan-T5-Base,53.2,91.8,51.72,109.01,472.34
-Magnitude,Flan-T5-Large,56.4,92.7,54.43,152.42,1493.99
