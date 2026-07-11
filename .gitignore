@@ -1,17 +1,17 @@
-# Model checkpoints
-*.pt
-*.bin
-*.safetensors
-
-# Artifacts
-artifacts*/
-
-# Python cache
 __pycache__/
 *.pyc
 
-# Logs
+artifacts-*/
+
+*.pt
+*.pth
+*.bin
+*.safetensors
+
 *.log
 
-# Environment
 .env
+
+.ipynb_checkpoints/
+
+results/*.tmp
