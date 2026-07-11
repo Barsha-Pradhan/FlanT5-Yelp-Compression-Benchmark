@@ -1,0 +1,4 @@
+Method,Model Name,Accuracy (%),Accuracy OffByOne (%),Macro-F1(%),Latency(ms),Size (MB)
+Movement,Flan-T5-Small,44.0,87.3,43.7,100.53,146.88
+Movement,Flan-T5-Base,50.0,87.2,49.08,127.49,472.34
+Movement,Flan-T5-Large,51.4,89.3,50.79,184.88,1493.99

@@ -1,0 +1,4 @@
+Method,Model Name,Accuracy (%),Accuracy OffByOne (%),Macro-F1(%),Latency(ms),Size (MB)
+ZeroQuant,Flan-T5-Small,46.7,88.6,45.95,162.89,89.61
+ZeroQuant,Flan-T5-Base,50.5,89.1,46.27,185.6,260.61
+ZeroQuant,Flan-T5-Large,56.8,93.9,55.52,257.74,780.46
