@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+accelerate
+evaluate
+numpy
+pandas
+scikit-learn
+openpyxl
+bitsandbytes
+optimum
+quanto
+tqdm
