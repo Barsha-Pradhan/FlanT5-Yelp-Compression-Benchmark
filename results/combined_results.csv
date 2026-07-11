@@ -1,7 +1,7 @@
 ## Benchmark Results
 
-| Method | Model | Accuracy (%) | Accuracy (Off-by-One) (%) | Macro-F1 (%) | Latency (ms) | Model Size (MB) |
-|--------|--------|-------------:|--------------------------:|-------------:|-------------:|----------------:|
+| Method | Model | Accuracy (%) | Off-by-One Accuracy (%) | Macro-F1 (%) | Latency (ms) | Size (MB) |
+|:--------|:------|-------------:|------------------------:|-------------:|-------------:|----------:|
 | GAMC | Flan-T5-Small | 31.8 | 61.0 | 21.91 | 65.49 | 120.72 |
 | GAMC | Flan-T5-Base | 39.9 | 73.7 | 29.47 | 107.74 | 307.13 |
 | GAMC | Flan-T5-Large | 53.1 | 91.3 | 52.65 | 206.54 | 841.94 |
@@ -14,7 +14,7 @@
 | Movement | Flan-T5-Small | 44.0 | 87.3 | 43.70 | 100.53 | 146.88 |
 | Movement | Flan-T5-Base | 50.0 | 87.2 | 49.08 | 127.49 | 472.34 |
 | Movement | Flan-T5-Large | 51.4 | 89.3 | 50.79 | 184.88 | 1493.99 |
-| SparseGPT | Flan-T5-Small | 47.0 | 89.0 | 46.57 | 103.32 | 146.88 |
+| SparseGPT | Flan-T5-Small | **47.0** | **89.0** | **46.57** | 103.32 | 146.88 |
 | SparseGPT | Flan-T5-Base | **53.6** | **91.4** | **52.19** | 122.04 | 472.34 |
 | SparseGPT | Flan-T5-Large | **59.1** | **95.2** | **58.92** | 165.40 | 1493.99 |
 | ZeroQuant | Flan-T5-Small | 46.7 | 88.6 | 45.95 | 162.89 | **89.61** |
